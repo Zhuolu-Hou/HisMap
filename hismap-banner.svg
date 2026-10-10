@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-label="HisMap banner with abstract satellite stereo and photogrammetric control point geometry. Conceptual artwork, not experimental results.">
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#071529"/>
+    <stop offset="57%" stop-color="#112946"/>
+    <stop offset="100%" stop-color="#102D47"/>
+  </linearGradient>
+  <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#63E9DF" stop-opacity=".95" />
+    <stop offset="100%" stop-color="#267DD7" stop-opacity=".35" />
+  </linearGradient>
+  <linearGradient id="film" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1E5470" stop-opacity=".50" />
+    <stop offset="1" stop-color="#172B4F" stop-opacity=".78" />
+  </linearGradient>
+  <clipPath id="clipA"><path d="M995,110 1316,68 1391,350 1063,394Z"/></clipPath>
+  <clipPath id="clipB"><path d="M1172,150 1455,111 1508,364 1224,405Z"/></clipPath>
+  <filter id="blur"><feGaussianBlur stdDeviation="29"/></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect width="1600" height="500" fill="url(#bg)"/>
+<circle cx="1394" cy="72" r="240" fill="#0DA9B9" opacity=".15" filter="url(#blur)"/>
+<circle cx="1050" cy="460" r="220" fill="#216AE1" opacity=".12" filter="url(#blur)"/>
+<path d="M55,0 V500" stroke="#40D9DC" stroke-width="7" opacity=".96"/>
+<path d="M57,0 V500" stroke="#BDF7E8" stroke-width="1" opacity=".55"/>
+
+<path d="M907,0 V500" stroke="#70B5D1" stroke-width="1" opacity=".06"/>
+<path d="M970,0 V500" stroke="#70B5D1" stroke-width="1" opacity=".06"/>
+<path d="M1033,0 V500" stroke="#70B5D1" stroke-width="1" opacity=".06"/>
+<path d="M1096,0 V500" stroke="#70B5D1" stroke-width="1" opacity=".06"/>
+<path d="M1159,0 V500" stroke="#70B5D1" stroke-width="1" opacity=".06"/>
+<path d="M1222,0 V500" stroke="#70B5D1" stroke-width="1" opacity=".06"/>
+<path d="M1285,0 V500" stroke="#70B5D1" stroke-width="1" opacity=".06"/>
+<path d="M1348,0 V500" stroke="#70B5D1" stroke-width="1" opacity=".06"/>
+<path d="M1411,0 V500" stroke="#70B5D1" stroke-width="1" opacity=".06"/>
+<path d="M1474,0 V500" stroke="#70B5D1" stroke-width="1" opacity=".06"/>
+<path d="M1537,0 V500" stroke="#70B5D1" stroke-width="1" opacity=".06"/>
+<path d="M1600,0 V500" stroke="#70B5D1" stroke-width="1" opacity=".06"/>
+<path d="M905,0 H1600" stroke="#70B5D1" stroke-width="1" opacity=".065"/>
+<path d="M905,56 H1600" stroke="#70B5D1" stroke-width="1" opacity=".065"/>
+<path d="M905,112 H1600" stroke="#70B5D1" stroke-width="1" opacity=".065"/>
+<path d="M905,168 H1600" stroke="#70B5D1" stroke-width="1" opacity=".065"/>
+<path d="M905,224 H1600" stroke="#70B5D1" stroke-width="1" opacity=".065"/>
+<path d="M905,280 H1600" stroke="#70B5D1" stroke-width="1" opacity=".065"/>
+<path d="M905,336 H1600" stroke="#70B5D1" stroke-width="1" opacity=".065"/>
+<path d="M905,392 H1600" stroke="#70B5D1" stroke-width="1" opacity=".065"/>
+<path d="M905,448 H1600" stroke="#70B5D1" stroke-width="1" opacity=".065"/>
+<path d="M880,450 C960,85 1320,15 1595,235" fill="none" stroke="#6DDDDC" stroke-width="1.5" opacity=".11" />
+<path d="M916,450 C996,85 1356,15 1631,235" fill="none" stroke="#6DDDDC" stroke-width="1.5" opacity=".11" />
+<path d="M953,450 C1033,85 1393,15 1668,235" fill="none" stroke="#6DDDDC" stroke-width="1.5" opacity=".11" />
+<path d="M995,110 1316,68 1391,350 1063,394Z" fill="url(#film)" stroke="#4CB9D8" stroke-opacity=".66" stroke-width="2.5"/>
+<path d="M1172,150 1455,111 1508,364 1224,405Z" fill="url(#film)" stroke="#77E6DD" stroke-opacity=".73" stroke-width="2.2"/>
+<path d="M945,95 Q1150,150.0 1438,37" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,117 Q1150,184.62206477211845 1438,59" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,139 Q1150,207.63946140238522 1438,81" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,161 Q1150,218.116800120898 1438,103" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,183 Q1150,226.64796257038108 1438,125" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,205 Q1150,245.61613588005292 1438,147" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,227 Q1150,277.80876752701613 1438,169" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,249 Q1150,313.8547989807818 1438,191" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,271 Q1150,340.8403736993507 1438,213" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,293 Q1150,354.1817772786263 1438,235" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,315 Q1150,361.83968333665945 1438,257" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,337 Q1150,377.00014690173947 1438,279" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,359 Q1150,405.9514062299935 1438,301" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M945,381 Q1150,442.3025055523996 1438,323" fill="none" stroke="#4FD2D4" stroke-width="1.4" opacity=".17" clip-path="url(#clipA)"/>
+<path d="M1010,65 Q935,240 1110,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1035,65 Q960,240 1135,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1060,65 Q985,240 1160,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1085,65 Q1010,240 1185,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1110,65 Q1035,240 1210,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1135,65 Q1060,240 1235,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1160,65 Q1085,240 1260,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1185,65 Q1110,240 1285,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1210,65 Q1135,240 1310,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1235,65 Q1160,240 1335,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1260,65 Q1185,240 1360,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1285,65 Q1210,240 1385,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1310,65 Q1235,240 1410,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1335,65 Q1260,240 1435,433" fill="none" stroke="#80BDEA" stroke-width="1" opacity=".12" clip-path="url(#clipA)"/>
+<path d="M1140,122 Q1285,102 1524,159" fill="none" stroke="#60C7D8" stroke-width="1" opacity=".22" clip-path="url(#clipB)"/>
+<path d="M1140,146 Q1285,126 1524,183" fill="none" stroke="#60C7D8" stroke-width="1" opacity=".22" clip-path="url(#clipB)"/>
+<path d="M1140,170 Q1285,150 1524,207" fill="none" stroke="#60C7D8" stroke-width="1" opacity=".22" clip-path="url(#clipB)"/>
+<path d="M1140,194 Q1285,174 1524,231" fill="none" stroke="#60C7D8" stroke-width="1" opacity=".22" clip-path="url(#clipB)"/>
+<path d="M1140,218 Q1285,198 1524,255" fill="none" stroke="#60C7D8" stroke-width="1" opacity=".22" clip-path="url(#clipB)"/>
+<path d="M1140,242 Q1285,222 1524,279" fill="none" stroke="#60C7D8" stroke-width="1" opacity=".22" clip-path="url(#clipB)"/>
+<path d="M1140,266 Q1285,246 1524,303" fill="none" stroke="#60C7D8" stroke-width="1" opacity=".22" clip-path="url(#clipB)"/>
+<path d="M1140,290 Q1285,270 1524,327" fill="none" stroke="#60C7D8" stroke-width="1" opacity=".22" clip-path="url(#clipB)"/>
+<path d="M1140,314 Q1285,294 1524,351" fill="none" stroke="#60C7D8" stroke-width="1" opacity=".22" clip-path="url(#clipB)"/>
+<path d="M1140,338 Q1285,318 1524,375" fill="none" stroke="#60C7D8" stroke-width="1" opacity=".22" clip-path="url(#clipB)"/>
+<path d="M1140,362 Q1285,342 1524,399" fill="none" stroke="#60C7D8" stroke-width="1" opacity=".22" clip-path="url(#clipB)"/>
+<path d="M1140,386 Q1285,366 1524,423" fill="none" stroke="#60C7D8" stroke-width="1" opacity=".22" clip-path="url(#clipB)"/>
+<line x1="1054" y1="190" x2="1166" y2="136" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1166" y1="136" x2="1284" y2="193" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1284" y1="193" x2="1350" y2="287" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1350" y1="287" x2="1190" y2="328" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1190" y1="328" x2="1084" y2="285" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1084" y1="285" x2="1054" y2="190" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1054" y1="190" x2="1284" y2="193" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1284" y1="193" x2="1190" y2="328" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1166" y1="136" x2="1084" y2="285" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1166" y1="136" x2="1402" y2="164" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1402" y1="164" x2="1466" y2="252" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1466" y1="252" x2="1350" y2="287" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1350" y1="287" x2="1272" y2="361" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1272" y1="361" x2="1190" y2="328" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<line x1="1190" y1="328" x2="1284" y2="193" stroke="#52CFD7" stroke-width="1.7" opacity=".47" />
+<circle cx="1054" cy="190" r="12" fill="#FFCC75" opacity=".13"/>
+<circle cx="1054" cy="190" r="5" fill="#FFCC75" opacity=".96"/>
+<circle cx="1054" cy="190" r="16" stroke="#FFCC75" stroke-width=".9" fill="none" opacity=".18"/>
+<circle cx="1166" cy="136" r="10.7" fill="#64ECE0" opacity=".13"/>
+<circle cx="1166" cy="136" r="3.7" fill="#64ECE0" opacity=".96"/>
+<circle cx="1166" cy="136" r="14.7" stroke="#64ECE0" stroke-width=".9" fill="none" opacity=".18"/>
+<circle cx="1284" cy="193" r="12" fill="#FFCC75" opacity=".13"/>
+<circle cx="1284" cy="193" r="5" fill="#FFCC75" opacity=".96"/>
+<circle cx="1284" cy="193" r="16" stroke="#FFCC75" stroke-width=".9" fill="none" opacity=".18"/>
+<circle cx="1350" cy="287" r="10.7" fill="#64ECE0" opacity=".13"/>
+<circle cx="1350" cy="287" r="3.7" fill="#64ECE0" opacity=".96"/>
+<circle cx="1350" cy="287" r="14.7" stroke="#64ECE0" stroke-width=".9" fill="none" opacity=".18"/>
+<circle cx="1190" cy="328" r="12" fill="#FFCC75" opacity=".13"/>
+<circle cx="1190" cy="328" r="5" fill="#FFCC75" opacity=".96"/>
+<circle cx="1190" cy="328" r="16" stroke="#FFCC75" stroke-width=".9" fill="none" opacity=".18"/>
+<circle cx="1084" cy="285" r="10.7" fill="#64ECE0" opacity=".13"/>
+<circle cx="1084" cy="285" r="3.7" fill="#64ECE0" opacity=".96"/>
+<circle cx="1084" cy="285" r="14.7" stroke="#64ECE0" stroke-width=".9" fill="none" opacity=".18"/>
+<circle cx="1466" cy="252" r="12" fill="#FFCC75" opacity=".13"/>
+<circle cx="1466" cy="252" r="5" fill="#FFCC75" opacity=".96"/>
+<circle cx="1466" cy="252" r="16" stroke="#FFCC75" stroke-width=".9" fill="none" opacity=".18"/>
+<circle cx="1402" cy="164" r="10.7" fill="#64ECE0" opacity=".13"/>
+<circle cx="1402" cy="164" r="3.7" fill="#64ECE0" opacity=".96"/>
+<circle cx="1402" cy="164" r="14.7" stroke="#64ECE0" stroke-width=".9" fill="none" opacity=".18"/>
+<circle cx="1272" cy="361" r="10.7" fill="#64ECE0" opacity=".13"/>
+<circle cx="1272" cy="361" r="3.7" fill="#64ECE0" opacity=".96"/>
+<circle cx="1272" cy="361" r="14.7" stroke="#64ECE0" stroke-width=".9" fill="none" opacity=".18"/>
+<path d="M957,110 H983 M970,97 V123" stroke="#A4E7EA" stroke-width="1.4" opacity=".33"/>
+<path d="M1442,399 H1468 M1455,386 V412" stroke="#A4E7EA" stroke-width="1.4" opacity=".33"/>
+<path d="M1547,139 H1573 M1560,126 V152" stroke="#A4E7EA" stroke-width="1.4" opacity=".33"/>
+<text x="105" y="82" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" letter-spacing="3.6" font-weight="700" fill="#88E6DF">HISTORICAL IMAGERY RESEARCH</text>
+<text x="95" y="256" font-family="DejaVu Sans, Arial, sans-serif" font-size="153" font-weight="700" letter-spacing="-4" fill="#F9FCFF">HisMap</text>
+<rect x="105" y="290" rx="3" width="73" height="6" fill="#5EE2CF"/>
+<rect x="191" y="290" rx="3" width="27" height="6" fill="#F8C675"/>
+<text x="105" y="343" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" fill="#DBEAF8">Metadata-free rigorous georeferencing</text>
+<text x="105" y="391" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" fill="#DBEAF8">of CORONA KH-4 stereo imagery</text>
+<text x="106" y="453" font-family="DejaVu Sans, Arial, sans-serif" font-size="18.5" letter-spacing="1" fill="#88B5C9">SELECTED RESULTS  /  RESEARCH EXCHANGE  /  LONG-TERM VISION</text>
+</svg>
