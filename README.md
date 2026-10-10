@@ -1,106 +1,116 @@
 <!--
-HisMap README template — replace every [PLACEHOLDER] before publishing.
-Image blocks are initially commented out to avoid broken thumbnails.
-Only uncomment image blocks after the corresponding approved images are uploaded.
-Confirm rights, publication details, and the Discussions feature before publication.
+HisMap project showcase README.
+Before publishing: replace [JOURNAL NAME] and [CONTACT EMAIL].
+For double-anonymous review, confirm whether public author-identifying material is permitted.
+Insert only imagery/results cleared for public display, with appropriate provenance and rights statements.
+Uncomment the gallery only after the files are actually uploaded.
 -->
 
-<h1 align="center">HisMap</h1>
-
-<p align="center"><strong>Research Results &amp; Academic Discussion</strong></p>
-
 <p align="center">
-  Metadata-Free Rigorous Georeferencing of Declassified CORONA KH-4 Stereo Imagery
+  <img src="assets/hismap-banner.png" alt="HisMap research banner with abstract photogrammetric geometry; decorative illustration, not an experimental result" width="100%">
 </p>
 
-<p align="center"><em>Toward reliable processing of diverse historical imagery.</em></p>
+<p align="center">
+  <img src="assets/badge-corona.png" alt="CORONA KH-4" height="28">
+  &nbsp;
+  <img src="assets/badge-georeferencing.png" alt="Rigorous georeferencing" height="28">
+  &nbsp;
+  <img src="assets/badge-discussion.png" alt="Research discussion" height="28">
+</p>
 
 <p align="center">
-  <a href="#about-hismap">Overview</a> ·
-  <a href="#selected-results">Results</a> ·
-  <a href="#publication">Publication</a> ·
-  <a href="#research-vision">Vision</a> ·
+  <strong>HisMap · Research Results & Academic Discussion</strong><br>
+  <em>Toward reliable and generalizable processing of diverse historical imagery.</em>
+</p>
+
+<p align="center">
+  <a href="#overview">Overview</a> &nbsp;·&nbsp;
+  <a href="#selected-results">Results</a> &nbsp;·&nbsp;
+  <a href="#manuscript">Manuscript</a> &nbsp;·&nbsp;
+  <a href="#research-vision">Vision</a> &nbsp;·&nbsp;
   <a href="#discussion--contact">Contact</a>
 </p>
 
-<!-- FEATURED IMAGE: Uncomment after uploading assets/featured-result.png.
-<p align="center">
-  <img src="assets/featured-result.png" width="900"
-       alt="Representative comparison illustrating the HisMap georeferencing result for CORONA KH-4 stereo imagery" />
-</p>
-<p align="center"><sub>[A precise, short caption explaining the left/right panels, study area, and data source.]</sub></p>
--->
-
 ---
 
-## About HisMap
+## Overview
 
-**HisMap** is a research study on **metadata-free rigorous georeferencing of declassified CORONA KH-4 stereo imagery** via **progressive bundle adjustment**.
+**HisMap** is a research study on **metadata-free rigorous georeferencing of declassified CORONA KH-4 stereo imagery via progressive bundle adjustment**.
 
-This repository showcases selected processing results associated with the study and provides a space for scholarly exchange on historical imagery processing.
+This repository is intended to present selected georeferencing results associated with the HisMap study and to support academic exchange on the processing of historical imagery.
 
-| Current research focus | Studied imagery | Approach |
-|:--|:--|:--|
-| Rigorous georeferencing | Declassified CORONA KH-4 stereo imagery | Progressive bundle adjustment |
+| **Imagery** | **Research problem** | **Methodological focus** |
+|:---|:---|:---|
+| Declassified CORONA KH-4 stereo imagery | Metadata-free rigorous georeferencing | Progressive bundle adjustment |
+
+> [!NOTE]
+> **Research scope:** The current HisMap study investigates CORONA KH-4 stereo imagery. Extending reliable processing to other types of historical imagery is a longer-term research objective, not a capability established by this study.
 
 ## Selected Results
 
-This section presents representative georeferencing results from the HisMap study. All examples should be accompanied by clear captions, appropriate source attributions, and, where relevant, quantitative evaluation results reported in the paper.
+This section is reserved for carefully selected georeferencing examples and quantitative illustrations associated with the HisMap study. Only material approved for public display will be included, with appropriate image-source attribution and figure captions.
 
-<!-- CASE GALLERY: Uncomment when both images have been uploaded.
-| Case Study 01 | Case Study 02 |
-|:--:|:--:|
-| <img src="assets/results/case-01.png" width="420" alt="HisMap georeferencing result for case study 01" /> | <img src="assets/results/case-02.png" width="420" alt="HisMap georeferencing result for case study 02" /> |
-| [Study area and what is compared.] | [Study area and what is compared.] |
--->
-
-<!-- VALIDATION FIGURE: Uncomment if supported by results in the paper.
-### Georeferencing Accuracy / Validation
+<!--
+FEATURED RESULT: Once a rights-cleared image named assets/results/featured-result.png
+has been uploaded, replace the paragraph above with a short description,
+then uncomment the following block.
 
 <p align="center">
-  <img src="assets/results/validation.png" width="800"
-       alt="Georeferencing accuracy or validation results reported in the HisMap study" />
+  <img src="assets/results/featured-result.png" alt="Representative HisMap georeferencing results for CORONA KH-4 stereo imagery" width="95%">
 </p>
-
-[Insert the exact metric name, units, validation data and paper reference.]
+<p align="center"><sub><b>Featured result.</b> [Describe the study area, comparison, source imagery, and relevant validation information.]</sub></p>
 -->
 
-## Publication
+<!--
+TWO-CASE GALLERY: Upload the two approved images first and then uncomment.
+
+| **Case study 01** | **Case study 02** |
+|:---:|:---:|
+| <img src="assets/results/case-01.png" alt="Georeferencing case 01" width="420"> | <img src="assets/results/case-02.png" alt="Georeferencing case 02" width="420"> |
+| [Study area · what is compared · image credit] | [Study area · what is compared · image credit] |
+-->
+
+<!--
+OPTIONAL VALIDATION: Only include an accuracy figure if it reports a metric
+and evaluation setting actually used in the study.
+
+### Georeferencing Validation
+
+<p align="center"><img src="assets/results/validation.png" alt="Georeferencing validation results" width="90%"></p>
+<p align="center"><sub>[Metric, unit, validation data, and evaluation setting.]</sub></p>
+-->
+
+## Manuscript
 
 **HisMap: Metadata-Free Rigorous Georeferencing of Declassified CORONA KH-4 Stereo Imagery via Progressive Bundle Adjustment**
 
-**Authors:** [FULL AUTHOR LIST]  
-**Journal:** [JOURNAL NAME]  
-**Year:** [PUBLICATION YEAR]  
-**DOI:** [VERIFIED DOI URL]
-
-Please cite the published paper when discussing the research methods and reported findings.
+<!-- Do not add DOI, volume, pages, acceptance or publication claims before they are confirmed. -->
 
 ## Research Vision
 
-Historical imagery offers valuable evidence of long-term changes, but its processing can be challenging because acquisition systems, imaging geometry, and available metadata vary widely.
+Historical imagery provides valuable evidence for studying environmental, geographical, and landscape changes across time. Its geometric processing is challenging because sensor characteristics, acquisition conditions, and available metadata vary substantially.
 
-While the published HisMap study focuses on **CORONA KH-4 stereo imagery**, our broader research interest is to advance **reliable and generalizable processing approaches for diverse historical imagery**, including data acquired by different sensors and platforms across different periods.
+Building on research involving CORONA KH-4 stereo imagery, our long-term goal is to **advance robust, transferable approaches for processing diverse historical imagery** across sensors, platforms, and acquisition periods.
 
-We welcome research discussions and the exchange of ideas toward this broader goal.
+We welcome discussions on the technical challenges, research opportunities, and potential collaborations that can contribute to this goal.
 
 ## Discussion & Contact
 
-We welcome conversations about historical imagery, photogrammetry, georeferencing, geometric modelling, and potential research collaborations.
+We welcome academic discussions related to **historical satellite imagery, photogrammetry, geometric modelling, and rigorous georeferencing**.
 
-**Email:** [CONTACT EMAIL]  
-**Affiliation:** [INSTITUTION / RESEARCH GROUP]
+- **Contact:** [CONTACT EMAIL]
 
-<!-- Enable GitHub Discussions first, then uncomment:
-**Community discussion:** [GitHub Discussions](https://github.com/Zhoulu-Hou/HisMap/discussions)
+<!--
+After enabling Discussions in Settings > General > Features, uncomment this line:
+- **GitHub Discussions:** [Join the discussion](https://github.com/Zhoulu-Hou/HisMap/discussions)
 -->
 
 ## Rights & Reuse
 
-This repository presents selected research results and related materials for public viewing and academic discussion.
+This repository is intended for public presentation and academic discussion. **All rights in original copyright-protected figures, visualizations, annotations, and related project materials are reserved by their respective rights holders.**
 
-Rights in original copyright-protected figures, annotations, visualizations, and other project-created materials are reserved by their respective rights holders. Except as expressly authorized or permitted by applicable law and platform terms, no additional permission is granted for reproduction, redistribution, modification, or commercial exploitation of those protected materials.
+No additional permission is granted for reproduction, redistribution, modification, or commercial use of such protected materials without authorization, except as permitted by applicable law or GitHub's terms.
 
-Underlying historical satellite imagery and third-party materials retain their respective rights status and usage conditions. The rights of any materials previously published under a journal or other license are not altered by this statement.
+Underlying historical imagery and third-party materials retain their respective copyright status and usage conditions, including any applicable public-domain status. Separate licenses or permissions already granted for particular materials are not superseded by this statement.
 
-For permission requests or collaboration inquiries, please use the contact details above.
+For permissions or collaboration inquiries, please use the contact information above.
