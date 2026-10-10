@@ -5,11 +5,10 @@ For double-anonymous review, confirm whether public author-identifying material 
 Insert only imagery/results cleared for public display, with appropriate provenance and rights statements.
 Uncomment the gallery only after the files are actually uploaded.
 -->
-
 <p align="center">
-  <img src="assets/hismap-banner.png" alt="HisMap research banner with abstract photogrammetric geometry; decorative illustration, not an experimental result" width="100%">
+  <strong>HisMap · Research Results & Academic Discussion</strong><br>
+  <em>Toward reliable and generalizable processing of diverse historical imagery.</em>
 </p>
-
 <p align="center">
   <img src="assets/badge-corona.png" alt="CORONA KH-4" height="28">
   &nbsp;
@@ -17,12 +16,6 @@ Uncomment the gallery only after the files are actually uploaded.
   &nbsp;
   <img src="assets/badge-discussion.png" alt="Research discussion" height="28">
 </p>
-
-<p align="center">
-  <strong>HisMap · Research Results & Academic Discussion</strong><br>
-  <em>Toward reliable and generalizable processing of diverse historical imagery.</em>
-</p>
-
 <p align="center">
   <a href="#overview">Overview</a> &nbsp;·&nbsp;
   <a href="#selected-results">Results</a> &nbsp;·&nbsp;
@@ -98,7 +91,7 @@ We welcome discussions on the technical challenges, research opportunities, and 
 
 We welcome academic discussions related to **historical satellite imagery, photogrammetry, geometric modelling, and rigorous georeferencing**.
 
-- **Contact:** [CONTACT EMAIL]
+- **Contact:** zhuoluhou@whu.edu.cn
 
 <!--
 After enabling Discussions in Settings > General > Features, uncomment this line:
