@@ -23,6 +23,11 @@ HisMap recovers camera geometry from historical CORONA KH-4 stereo film scans wi
 
 The grayscale overlays in Figure 12 of the manuscript are reconstructed CORONA orthophotos from 1966–1972. Panel (c) shows Miyun within the Beijing study area. The other seven panels show the transferability sites. [Open the full-resolution figure (PNG, 15 MB)](assets/Cross-site-dom.png)
 
+### Additional KH-9 processing example
+
+![Processing result for KH-9 imagery](assets/KH-9.png)
+
+[View the full-resolution KH-9 result](assets/KH-9.png)
 ## Failure cases
 
 **Challenging cross-site example.** 
