@@ -26,6 +26,11 @@ The grayscale overlays in Figure 12 of the manuscript are reconstructed CORONA o
 ## Failure cases
 
 **Challenging cross-site example.** 
+### Image examples
+
+| Failure case 1 | Failure case 2 |
+| --- | --- |
+| ![Image from failure case 1](assets/Failed1.png) | ![Image from failure case 2](assets/Failed2.png) |
 
 ## Data and scripts
 
